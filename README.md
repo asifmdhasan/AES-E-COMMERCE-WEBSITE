@@ -1,0 +1,2 @@
+# AES-E-COMMERCE-WEBSITE
+I have got 2 types of user in this project. 1st is the normal user he can login and register normally. Search by category and search by cost. Cart product and see what product he cart. Also see product details and cost. And logout. Now 2nd user is admin. Admin can login. Admin add product,cost and details. Update and delete product. Admin see user details. And I try to many other option.
